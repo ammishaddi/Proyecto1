@@ -8,4 +8,4 @@ Ejercicio para prácticar los conceptos básicos aprendidos sobre Java Script
 - Colocar notas para esclarecer cada parte del código
 
 
-![Texto alternativo]https://i.imgur.com/6UcMbjq.png
+![Texto alternativo](https://i.imgur.com/6UcMbjq.png)
