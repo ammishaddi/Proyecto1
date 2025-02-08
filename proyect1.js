@@ -22,7 +22,7 @@ console.log(typeof numeroGrande);
 console.log(typeof id);
 
 
-// lista de numeros y como se determina la posición 
+// ejemplo de array
 let numeros = [12, 13, 14, 15, 16]
 console.log(numeros[1]);
 
