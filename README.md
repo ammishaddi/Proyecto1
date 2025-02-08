@@ -16,4 +16,4 @@ Carpeta de proyectos del tercer modulo del master en frontend DEVF Bécalos
 - Aplicar operadores lógicos (en este caso &&)
 - Usar if, if else y else
 
-![Texto alternativo](https://i.imgur.com/MtvFb0p.png)
+![Texto alternativo](https://i.imgur.com/5V2312G.png)
