@@ -13,5 +13,7 @@ Carpeta de proyectos del tercer modulo del master en frontend DEVF Bécalos
 
 ## PROYECTO 2 - Objetivos 
 - Realizar lo indicado, para asignar el tipo de desempeño según la nota requerida (del 1 al 100)
--Aplicar operadores lógicos (en este caso &&)
--Aplicar if 
+- Aplicar operadores lógicos (en este caso &&)
+- Usar if, if else y else
+
+![Texto alternativo](https://i.imgur.com/MtvFb0p.png)
