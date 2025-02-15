@@ -15,5 +15,6 @@ Carpeta de proyectos del tercer modulo del master en frontend DEVF Bécalos
 - Realizar lo indicado, para asignar el tipo de desempeño según la nota requerida (del 1 al 100)
 - Aplicar operadores lógicos (en este caso &&)
 - Usar if, if else y else
+- Luego puse a chatgpt a que hiciera el ejercicio y me di cuenta que le di muchas vueltas a mi código hahaha 
 
 ![Texto alternativo](https://i.imgur.com/5V2312G.png)
