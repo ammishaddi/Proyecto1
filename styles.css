@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction:column;
+    margin: 0vw;
+    overflow-x: hidden; 
+    box-sizing: border-box;
+    background: linear-gradient(0deg, rgb(60, 63, 63) 0%, rgb(7, 13, 28) 100%);
+    color:aliceblue;
+}
+
+ /* LADO IZQUIERDO */
+ .left-container{
+    position: fixed;
+    top: 1;
+  
+    width: 27vw;
+    height: 100vh;
+    background: linear-gradient(0deg, rgb(60, 63, 63) 0%, rgb(8, 9, 9) 100%);
+    color: white;
+    margin: 0;
+    padding: 2vw;
+    margin-left: 0px;
+    margin-top: -2vw;
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 35px;
+}
+
+.left-container img{
+    width: 31vw;
+}
+
+
+/* LADO DERECHO */
+.right-container{
+    width: 50vw;
+    height: auto;
+    margin-left: 31vw;
+
+   
+    width: calc(100vw - 25vw);
+    text-align: center;
+    padding: 2%;
+    
+  }
+
+ 
+#logo{
+    width: 35vw;
+   display: flex;
+   justify-content: center;
+   margin-left: 15vw;
+   
+}
+
+#texto1{
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    margin-left: -10vw;
+    color:bisque;
+    font-weight: bold;
+}
+
+
+.cuadro{
+    display: flex;
+    flex-direction: column;
+}
+
+#comentario{
+    margin-left: 7vw;
+    width: 50vw;
+    height: 15vw;
+    font-size: 20px;
+    border-radius: 2vw;
+    padding-top: -15px;
+}
+
+
+#enviar{
+    margin-top:  1vw;;
+    width: 15vw;
+    font-size: 1.3vw;
+    display: flex;
+    justify-content: center;
+    margin-left: 42vw;
+    padding: 1%;
+    background-color: rgb(141, 111, 1);
+    border-radius: 2vw;
+    color: white;
+
+}
+
+.comentario{
+    margin-left: 42vw;
+    margin-right: 8vw;
+    margin-bottom: 2vw;
+    display: flex;
+    text-justify: distribute;
+    
+}
